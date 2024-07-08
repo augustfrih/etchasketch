@@ -1,0 +1,19 @@
+.grid {
+    display: flex;
+    height: 250px;
+    width: 250px;
+    flex: auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+
+
+.square {
+    background-color: #555;
+    flex: 1;
+}
